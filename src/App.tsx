@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, type ReactNode } from "react"
 
 const WHATSAPP_URL =
-  "https://wa.me/5516994339648?text=Ol%C3%A1%2C%20Carolina!%20Conheci%20seu%20trabalho%20pelo%20site%20e%20gostaria%20de%20conversar%20sobre%20RH."
+  "https://wa.me/5516992076819?text=Ol%C3%A1%2C%20Carolina!%20Conheci%20seu%20trabalho%20pelo%20site%20e%20gostaria%20de%20conversar%20sobre%20RH."
 
 const menuLinks: ReadonlyArray<readonly [label: string, href: string]> = [
   ["Serviços", "#servicos"],
@@ -720,7 +720,7 @@ function App() {
                   carolinna.donizete@outlook.com
                 </a>
                 <a href={WHATSAPP_URL} target="_blank" rel="noreferrer">
-                  (16) 99433-9648
+                  (16) 99207-6819
                 </a>
                 <span>Ribeirão Preto • SP</span>
               </div>
